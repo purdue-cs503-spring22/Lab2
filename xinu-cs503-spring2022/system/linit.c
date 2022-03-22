@@ -4,7 +4,7 @@
 /* Lab 2: Complete this function */
 
 // declare any global variables here
-struct lockent loctab[NLOCKS];
+struct lockent locktab[NLOCKS];
 
 void linit(void) {
   
